@@ -1,4 +1,4 @@
-libclastfm (0.5.huayra2) experimental; urgency=medium
+libclastfm (0.5-huayra2) experimental; urgency=medium
 
   * Fix install paths.
 

@@ -1,0 +1,17 @@
+libclastfm (0.5.huayra2) experimental; urgency=medium
+
+  * Fix install paths.
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 22 Oct 2015 12:56:41 -0300
+
+libclastfm (0.5.Huayra1) experimental; urgency=medium
+
+  * First Build on Huayra GNU/Linux
+
+ -- Matias De lellis <mati86dl@gmail.com>  Thu, 22 Oct 2015 12:15:12 -0300
+
+libclastfm (0.4-1) unstable; urgency=low
+
+  * Initial deb release 
+
+ -- Vikram Ambrose <noel.ambrose@gmail.com>  Fri, 25 Feb 2011 00:30:01 -0500
